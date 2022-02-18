@@ -1,0 +1,30 @@
+h5{
+    text-align: center;
+}
+table{
+    width: 400px;
+}
+
+b{
+    align: center;
+}
+
+table td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 15px;
+
+}
+
+ol{
+    text-align: center
+}
+
+.dad{
+    padding: 30px;
+}
+
+.thd{
+    padding: 30px;
+}
+
